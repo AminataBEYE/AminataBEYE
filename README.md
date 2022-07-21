@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AminataBEYE
-- 👀 I’m interested in  Les logiciels  R, Matlab, Python, ODK and Kobotool
+- 👀 I’m interested  in softare:  R, Matlab, Python, ODK and Kobotool
 - 🌱 I’m currently learning Matlab and ODK
 - 💞️ I’m looking to collaborate on biostatistics 
 - 📫 How to reach me  aminabeye45@gmail.com
